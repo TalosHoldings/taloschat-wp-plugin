@@ -1,6 +1,6 @@
 # TalosChat AI — WordPress plugin
 
-The WordPress plugin distribution mirror for [TalosChat AI](https://agenttalos.ai/ai) — the only website chat where customer data, the AI brain, and the model all run on a Mac mini the customer owns.
+The WordPress plugin distribution mirror for [TalosChat AI](https://agenttalos.ai/ai): an AI chat assistant that answers your website visitors from your own business knowledge.
 
 ## What lives here
 
@@ -36,7 +36,7 @@ Then go to **Settings → TalosChat AI**, paste your `client_id`, check **Enable
 - An [AgentTalos](https://agenttalos.ai) subscription with the TalosChat module enabled
 - Your `client_id` (a short slug like `agenttalos`)
 
-The plugin is free and GPL-licensed. The service it loads (your AI brain, your operator inbox, the model itself) is what we charge for — and it runs on hardware you own.
+The plugin is free and GPL-licensed. The service it loads (the AI assistant, its knowledge base and your operator inbox) is a paid AgentTalos module.
 
 ## License
 
